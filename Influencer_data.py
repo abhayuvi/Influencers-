@@ -88,3 +88,11 @@ output_filename = 'filtered_micro_nano_influencers.xlsx'
 access_token = 'YOUR_ACCESS_TOKEN' #Instagram Graph Api Access token
 
 filter_and_save_influencers(input_filename, output_filename, access_token)
+
+"""
+'fetch_influencer_data' Function: Retrieves influencer data and calculates the engagement rate.
+'save_data_to_excel' Function: Saves the collected data to an Excel file.
+'filter_and_save_influencers' Function: Loads influencer data from a file, filters based on follower count, and saves the filtered data.
+
+"""
+
