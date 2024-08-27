@@ -7,3 +7,5 @@ This Repository consists of two file:-
 Influencer_data.py : fetches the data of influencers from instagram , it uses instagram Graph Api .
 
 Make_connection.py : This module lets you send emails to the specific influencers you want to send along with your specified message .
+
+Input file:- https://www.modash.io/features/influencer-email-finder
